@@ -42,3 +42,6 @@ This project demonstrates how to:
    - Real price (from Binance)
 5. Prepare for Gemini tool-calling by registering the function.
 
+---
+Made with ❤ by **Rubab Batool**
+
